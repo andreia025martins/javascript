@@ -1,0 +1,1 @@
+alert("Hoje eu só tenho a 6ª aula!")
